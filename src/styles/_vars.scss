@@ -1,0 +1,29 @@
+:root {
+	/* Container */
+	--container-width: 960px;
+	--container-padding: 20px;
+
+	/* Fonts */
+	--font-main: "Inter", sans-serif;
+
+
+	/* Colors */
+	--color-white: #fff;
+	--color-black: #000;
+	--color-aqua: #e7f6ff;
+	--color-accent: #9dd458;
+
+	
+
+	/* Functional Colors */
+	--text-color-white: var(--color-white);
+	--text-color-black: var(--color-black);
+	--text-color-accent: var(--color-accent);
+
+	--bg-color-white: var(--color-white);
+	--bg-color-black: var(--color-black);
+
+
+	--bg-color-page: var(--color-aqua);
+
+}
