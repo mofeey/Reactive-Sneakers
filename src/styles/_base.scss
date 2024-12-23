@@ -11,6 +11,12 @@ body {
 	background-color: var(--bg-color-page);
 	border-radius: 20px;
 }
+
+svg {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
  
 .title {
 	font-weight: 700;
